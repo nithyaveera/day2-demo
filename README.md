@@ -4,7 +4,7 @@
 This repository created for my practice on Git & Github.
 
 
-Things I did for making this ~~folder~~repository.
+Things I did for making this ~~folder~~ repository.
 
 *Created a empty repository named `day2-demo` in [GitHub](https://github.com/new).
 
